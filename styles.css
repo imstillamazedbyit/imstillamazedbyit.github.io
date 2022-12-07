@@ -375,6 +375,7 @@ html {
 }
 body {
   margin: 0;
+  background-image: linear-gradient(#404040, black);
 }
 article,
 aside,
